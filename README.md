@@ -5,3 +5,5 @@ Chương trình hoạt động theo cách thức đếm pixel ứng với đơn 
 
 Chương trình trả về giá trị mang tính chất gần đúng, không thể sử dụng để đo chính xác.
 
+![91789835_2816303291810513_6077297239720460288_n](https://user-images.githubusercontent.com/71064702/92699891-54a5d280-f378-11ea-8c23-f59dbbf7448c.jpg)
+![92347585_2816303205143855_2319542756592058368_n](https://user-images.githubusercontent.com/71064702/92699897-57a0c300-f378-11ea-85f5-9f2012d53f4b.jpg)
